@@ -1,0 +1,6 @@
+AMERICANO :
+--Small 1  $123 each
+
+CAPPUCCINO :
+--Small 1  $100 each
+
